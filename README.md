@@ -1,3 +1,5 @@
+*Note: only keeping this around for `hive-inventory`; it's required for running the rspec tests.  Forked to satisfy deprecation warning.*
+
 TOTALLY OBSOLETE
 ================
 
